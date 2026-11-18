@@ -1,0 +1,17 @@
+# NAP Norway
+
+| NAP Name | NAP Link | Contact | Status | mobilityDCAT-AP version |
+| :------------: | :------------------: | :------------------: | :------: |  :------: |
+| NAP Norway <br>(transportportal.no) |	[transportportal.no](https://transportportal.no/en) | kontakt@transportportal.no | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | 1.1.0 |
+
+## Access metadata
+
+When looking at a dataset, choose the "RDF" tab to see the metadata in machine readable form.
+
+Note: While the Norwegian NAP supports mobilityDCAT-AP, most of the datasets are currently described using [DCAT-AP-NO](https://informasjonsforvaltning.github.io/dcat-ap-no/#_abstract_in_english), the Norwegian application profile of DCAT-AP. mobilityDCAT-AP will be added to more datasets during 2027.
+
+## Harvest metadata
+
+All the metadata in the NAP can be accessed both as a downloadable file and via an API, see the [documentation](https://data.norge.no/en/datasets/766d57bf-6b45-347e-80fe-ddbb47f663f0/dataset-descriptions-in-transportportalno).
+
+Note: The dowloadable file contains both metadata following DCAT-AP-NO and mobilityDCAT-AP.
